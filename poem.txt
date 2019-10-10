@@ -5,3 +5,7 @@ superman
 flash
 kickass
 batman
+some new heroes 
+aquamaan
+wonderwoman
+joker
